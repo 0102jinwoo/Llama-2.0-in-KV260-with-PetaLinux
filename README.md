@@ -23,5 +23,5 @@ To follow along with this project, you will need the following:
 I hope this guide helps you in successfully running FPGA boards utilizing PetaLinux!
 
 
-System Overview
 
+![System Overview](images/system_overview.jpg)
