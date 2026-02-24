@@ -20,4 +20,8 @@ To follow along with this project, you will need the following:
 * USB-UART Console Cable
 * 12V AC Power Adapter
 
-> I hope this guide helps you in successfully running FPGA boards utilizing PetaLinux!
+I hope this guide helps you in successfully running FPGA boards utilizing PetaLinux!
+
+
+System Overview
+
